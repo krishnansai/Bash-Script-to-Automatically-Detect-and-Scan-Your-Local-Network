@@ -7,7 +7,8 @@ using nmap and shell
 
 How to run the code
 
-$ -> sudo apt-get install git
+
+-> sudo apt-get install git
 
 -> git clone https://github.com/krishnansai/Bash-Script-to-Automatically-Detect-and-Scan-Your-Local-Network
 
@@ -17,7 +18,7 @@ $ -> sudo apt-get install git
 -> chmod +x *
 
 
--> ./network_scan.sh
+-> sudo ./network_scan.sh
 
 
 
