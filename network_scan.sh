@@ -24,6 +24,6 @@ echo "" > $OCTATS.txt
 #nmap scan
 #sudo apt-get install nmap
 
-nmap -vvv localhost >> result.sh
+nmap -vvv localhost >> result.txt
 
 #exit
